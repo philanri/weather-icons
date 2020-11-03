@@ -1,5 +1,4 @@
-<img src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg">
-<img src="https://phils.design/weather-icons/images/svg/a_1_sunny.svg">
+<img src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" width="200px">
 
 ## Usage
 
