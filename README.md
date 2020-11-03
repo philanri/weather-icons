@@ -1,4 +1,6 @@
 <img src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" width="200px">
+<img src="https://phils.design/weather-icons/images/svg/a_1_sunny.svg" width="200px">
+<img src="https://phils.design/weather-icons/images/svg/e_4_tornado.svg" width="200px">
 
 ## Usage
 
