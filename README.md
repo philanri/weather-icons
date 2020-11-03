@@ -1,4 +1,4 @@
-<img src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg">
+<img src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" style="width:200px; height:auto; text-align:center;">
 
 ## Usage
 
