@@ -11,7 +11,7 @@ In your website:
 1. Download the svg folder, and upload to your server.
 
 2. Then link it in your website same as other iframe elements!
-!note: since these are animated svg files, <img> would have animation problems, please use <iframe> tag instead.
+!note: since these are animated svg files, please use "<iframe>" tag to avoid animation problems.
 
 ```
 <iframe class="frame"
