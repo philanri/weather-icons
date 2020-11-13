@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 64 64" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(11.3947px,15.05px); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { transform: translate(27.35px,15.05px); } }
+@keyframes a0_o { 0% { opacity: 0; } 15% { opacity: 1; } 85% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a0_d { 0% { d: path('M2.3,31.6L2.3,31.6'); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 50% { d: path('M2.3,31.6L19.4,31.6'); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { d: path('M19.4,31.6L19.4,31.6'); } }
+@keyframes a1_t { 0% { transform: translate(7.8197px,17.35px); } 25% { transform: translate(7.8197px,17.35px); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { transform: translate(26.8px,17.35px); } }
+@keyframes a2_o { 0% { opacity: 0; } 25% { opacity: 0; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 40% { opacity: 1; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 85% { opacity: 1; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { opacity: 0; } }
+@keyframes a2_do { 0% { stroke-dashoffset: 0px; } 25% { stroke-dashoffset: 0px; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { stroke-dashoffset: 26px; } }
+@keyframes a3_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 15% { opacity: 1; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { opacity: 0; } }
+@keyframes a3_d { 0% { d: path('M2.3,21.6L5.2,21.6'); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { d: path('M5.2,21.6L5.2,21.6'); } }
+@keyframes a4_t { 0% { transform: translate(16.5947px,27.35px); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 75% { transform: translate(35.35px,27.35px); } 100% { transform: translate(35.35px,27.35px); } }
+@keyframes a5_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 15% { opacity: 1; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 60% { opacity: 1; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 75% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes a5_do { 0% { stroke-dashoffset: 0px; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 75% { stroke-dashoffset: 26px; } 100% { stroke-dashoffset: 26px; } }
+    </style>
+    <path fill="none" stroke="#EBF2F2" stroke-width="4.6286" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M2.3,31.6L2.3,31.6" opacity="0" transform="translate(22.2447,46.65) translate(-10.85,-31.6)" style="animation: 2s linear infinite both a0_t, 2s linear infinite both a0_o, 2s linear infinite both a0_d;"/>
+    <g transform="translate(15.8697,22.05) translate(-8.05,-4.7)" style="animation: 2s linear infinite both a1_t;">
+        <path fill="none" stroke="#EBF2F2" stroke-width="4.6286" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.4,7C18.4,9.6,16.3,11.7,13.7,11.7L2.3,11.7" stroke-dashoffset="0" stroke-dasharray="26" opacity="0" transform="translate(-2.3,-2.3)" style="animation: 2s linear infinite both a2_o, 2s linear infinite both a2_do;"/>
+    </g>
+    <path fill="none" stroke="#EBF2F2" stroke-width="4.6286" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M2.3,21.6L5.2,21.6" stroke-dashoffset="0.5" stroke-dasharray="3" opacity="0" transform="translate(15.1447,36.65) translate(-3.75,-21.6)" style="animation: 2s linear infinite both a3_o, 2s linear infinite both a3_d;"/>
+    <g transform="translate(24.6447,32.05) translate(-8.05,-4.7)" style="animation: 2s linear infinite both a4_t;">
+        <path fill="none" stroke="#EBF2F2" stroke-width="4.6286" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M29.8,17C29.8,19.6,27.7,21.7,25.1,21.7L13.7,21.7" stroke-dashoffset="0" stroke-dasharray="26" opacity="0" transform="translate(-13.7,-12.3)" style="animation: 2s linear infinite both a5_o, 2s linear infinite both a5_do;"/>
+    </g>
+</svg>

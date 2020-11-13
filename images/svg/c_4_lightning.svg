@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 64 64" style="white-space: pre;">
+    <style>
+@keyframes a0_o { 0% { opacity: 1; animation-timing-function: steps(1); } 40% { opacity: 0; } 80% { opacity: 1; } 100% { opacity: 1; } }
+    </style>
+    <path fill="#FFCE55" d="M0,27.7L21.5,0L21.5,13.9L33.9,13.9L12.4,41.6L12.4,27.7Z" opacity="1" transform="translate(15.05,11.2)" style="animation: 1s linear infinite both a0_o;"/>
+</svg>

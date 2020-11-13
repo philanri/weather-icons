@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 64 64" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(11.549082px,14px); animation-timing-function: cubic-bezier(0.445,0.05,0.55,0.95); } 50% { transform: translate(11.549082px,8px); animation-timing-function: cubic-bezier(0.445,0.05,0.55,0.95); } 100% { transform: translate(11.549082px,14px); } }
+    </style>
+    <path fill="#EBF2F2" d="M32.1,14.2C32.1,14.2,32,14.2,32,14.2C31.1,6.2,24.3,0,16,0C7.2,0,0,7.2,0,16C0,24.8,7.2,32,16,32L32,32C36.9,32,40.9,28,40.9,23.1C41,18.2,37,14.2,32.1,14.2Z" transform="translate(32,30) translate(-20.4509,-16)" style="animation: 3s linear infinite both a0_t;"/>
+</svg>

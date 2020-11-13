@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 64 64" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(24.025px,16px); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 33.3333% { transform: translate(24.025px,21.5px); animation-timing-function: cubic-bezier(0.91225,0.130214,0.865659,0.591094); } 66.6666% { transform: translate(24.025px,21.5px); animation-timing-function: cubic-bezier(0.91225,0.130214,0.865659,0.591094); } 100% { transform: translate(24.025px,16px); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } }
+@keyframes a1_t { 0% { transform: translate(43.825px,39.2px) scale(1,1); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 50% { transform: translate(43.825px,39.2px) scale(0.5,0.5); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { transform: translate(43.825px,39.2px) scale(1,1); } }
+@keyframes a2_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 50% { opacity: 1; animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { opacity: 0; } }
+    </style>
+    <path fill="none" stroke="#99A3AA" stroke-width="6.3978" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.8,21.8L19.8,7" transform="translate(24.025,17.4)"/>
+    <ellipse fill="#EF5067" rx="7.6" ry="7.6" transform="translate(24.025,17.4) translate(19.8,21.8)"/>
+    <path fill="none" stroke="#EF5067" stroke-width="6.3978" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.8,21.8L19.8,13.4" transform="translate(43.825,33.6) translate(-19.8,-17.6)" style="animation: 3s linear infinite both a0_t;"/>
+    <ellipse fill="#FC92AC" rx="3.4" ry="3.4" transform="translate(43.825,39.2)" style="animation: 3s linear infinite both a1_t;"/>
+    <path fill="none" stroke="#EBF2F2" stroke-width="2.2849" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1.1,1.7L3.6,1.7" transform="translate(24.025,17.4)"/>
+    <path fill="none" stroke="#EBF2F2" stroke-width="2.2849" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1.1,9.2L3.6,9.2" transform="translate(24.025,17.4)"/>
+    <path fill="none" stroke="#EBF2F2" stroke-width="2.2849" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1.1,16.6L3.6,16.6" transform="translate(24.025,17.4)"/>
+    <path fill="none" stroke="#EBF2F2" stroke-width="4.5699" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M24.2,14.5L24.2,6.7C24.2,4.3,22.2,2.3,19.8,2.3C17.4,2.3,15.4,4.3,15.4,6.7L15.4,14.5C13,16,11.4,18.6,11.4,21.7C11.4,26.3,15.2,30.1,19.8,30.1C24.4,30.1,28.2,26.3,28.2,21.7C28.2,18.6,26.6,16,24.2,14.5Z" transform="translate(24.025,17.4)"/>
+    <ellipse fill="none" stroke="#EBF2F2" stroke-width="2.3143" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" rx="2.6" ry="2.6" opacity="0" transform="translate(13.375,34)" style="animation: 3s linear infinite both a2_o;"/>
+</svg>

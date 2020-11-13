@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 64 64" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(32px,32px) rotate(0deg) translate(-13.402091px,-13.45px); } 100% { transform: translate(32px,32px) rotate(-360deg) translate(-13.402091px,-13.45px); } }
+@keyframes a1_t { 0% { transform: translate(31.997909px,31.95px) scale(1,1); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 50% { transform: translate(31.997909px,31.95px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.785,0.135,0.15,0.86); } 100% { transform: translate(31.997909px,31.95px) scale(1,1); } }
+    </style>
+    <path fill="#DFE7E8" d="M22.4,3.4L24.6,2.3C25.8,1.8,25.4,0,24.1,0L13.4,0C6,0,0,6,0,13.4C0,17.4,1.7,20.9,4.5,23.4L2.3,24.5C1.1,25.1,1.5,26.9,2.8,26.9L13.4,26.9C20.8,26.9,26.8,20.9,26.8,13.5C26.9,9.5,25.2,5.9,22.4,3.4Z" transform="translate(32,32) translate(-13.4021,-13.45)" style="animation: 2s linear infinite both a0_t;"/>
+    <ellipse fill="#9997EF" rx="7.6" ry="7.6" transform="translate(18.5979,18.55) translate(13.4,13.4)"/>
+    <ellipse fill="#6A63C6" rx="3.9" ry="3.9" transform="translate(31.9979,31.95)" style="animation: 2s linear infinite both a1_t;"/>
+</svg>
