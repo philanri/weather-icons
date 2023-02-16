@@ -2,7 +2,7 @@
 
 ## Usage
 
-Flat Arduino SVG Icon Kit is a collection of carefully crafted SVG files for makers. 
+Flat Animated Weather SVG Icon Kit is a collection of carefully crafted SVG files. 
 You can use these SVG files in many ways for your websites/projects/works.
 
 For example:
